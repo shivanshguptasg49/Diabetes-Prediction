@@ -1,22 +1,32 @@
 # Diabetes-Prediction
  
-# Overview
+## Overview
 In this project, the objective is to predict whether the person has Diabetes or not 
 based on various features such as-
-Pregnancies
-Glucose
-Blood Pressure
-Skin Thickness
-Insulin Level
-BMI
-Age
+
+•	Pregnancies
+
+•	Glucose
+
+•	Blood Pressure
+
+•	Skin Thickness
+
+•	Insulin Level
+
+•	BMI
+
+•	Age
 
 The dataset used in this project has taken from the kaggle (https://www.kaggle.com/uciml/pima-indians-diabetes-database).
 
-# Libraries Used
+## Libraries Used
 •Numpy
+
 •Pandas
+
 •Sklearn
+
 
 # Steps Involved
 
