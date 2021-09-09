@@ -1,8 +1,5 @@
 # Diabetes-Prediction
-
-![image](https://user-images.githubusercontent.com/90233908/132739620-b45e0471-566f-4206-a29e-0387e85cb96c.png)
-
- 
+![image](https://user-images.githubusercontent.com/90233908/132739874-14dd78d9-455a-4ab9-be3f-ba752af9e07c.png)
 ## Overview
 In this project, the objective is to predict whether the person has Diabetes or not 
 based on various features such as-
