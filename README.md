@@ -28,15 +28,22 @@ The dataset used in this project has taken from the kaggle (https://www.kaggle.c
 •Sklearn
 
 
-# Steps Involved
+## Steps Involved
 
-Importing Dataset
-Analysing Dataset
-Splitting up of Data
-Applying ML algorithms
+•	Importing Dataset
+
+•	Analysing Dataset
+
+•	Splitting up of Data
+
+•	Applying ML algorithms
 
 The following algorithms were used to train and test the dataset.
+
 •K Neighbour Classifier
+
 •Decision Tree Classifier
+
 •Logistic Regression
+
 •Random Forest
