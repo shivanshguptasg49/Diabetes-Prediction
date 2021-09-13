@@ -38,7 +38,7 @@ The dataset used in this project has taken from the kaggle (https://www.kaggle.c
 
 •	Applying ML algorithms
 
-The following algorithms were used to train and test the dataset.
+## The following algorithms were used to train and test the dataset.
 
 •K Neighbour Classifier
 
